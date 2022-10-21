@@ -1,0 +1,5 @@
+# ninja log v5
+1	466	6880628478861391	CMakeFiles/Movie.dir/Movie.cpp.obj	8c56e89fd7082e9d
+8	498	6880628479173879	CMakeFiles/Movie.dir/Movies.cpp.obj	b5b06275748117e7
+5	519	6880628479334063	CMakeFiles/Movie.dir/main.cpp.obj	6e2fbec15c21d430
+520	1221	6880628486188023	Movie.exe	a8b58a8ecab9a48e
