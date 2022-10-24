@@ -86,7 +86,7 @@ void init_add_movie(Movies& movies){
 void init_watch_time_increment(Movies& movies){
     std::string name;
 
-    std::cin.clear();
+    std::cin.ignore();
     std::cout<<"Name of the Movie => ";
     std::getline(std::cin,name);
 
